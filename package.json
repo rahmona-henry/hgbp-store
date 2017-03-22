@@ -1,0 +1,19 @@
+{
+  "name": "hgbp-store",
+  "version": "1.0.0",
+  "description": "Website and online store for the Henry | Griffiths Brewing Project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahmona-henry/hgbp-store.git"
+  },
+  "author": "rahmona henry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahmona-henry/hgbp-store/issues"
+  },
+  "homepage": "https://github.com/rahmona-henry/hgbp-store#readme"
+}
